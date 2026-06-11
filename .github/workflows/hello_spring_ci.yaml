@@ -1,8 +1,8 @@
 name: Hello Spring CI
 
 on:
-  #   workflow_dispatch:
-  push:
+    workflow_dispatch:
+  # push:
 
 jobs:
   build-test:
